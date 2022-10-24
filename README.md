@@ -1,3 +1,5 @@
+Meu nobre, da proxima vez desloga do github quando tu terminar a aula.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
